@@ -1,6 +1,6 @@
 # image_amalyze
 
-1. Run on terminal
+1. Run on terminal :
 node app.js
 
 
