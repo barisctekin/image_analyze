@@ -1,4 +1,4 @@
-# image_amalyze
+# image_analyze
 
 1. Run on terminal :
 node app.js
